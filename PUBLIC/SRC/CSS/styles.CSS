@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+/**Estilos para la barra de navegacion*/
+.nav-bar {
+  width: 100%;
+  height: auto;
+  background-color: #f2efea;
+}
+.nav-bar .bar-destok{
+  
+}
+/**Estilos para la seccion Main*/
